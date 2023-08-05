@@ -1,5 +1,6 @@
 Ques1:
 simple logging syntax
+
 Ques2:
 Write a Python script that performs some basic calculations and logs the process and results using the logging module. The script should calculate the square and cube of numbers from 1 to 5 and log the following information:
 
